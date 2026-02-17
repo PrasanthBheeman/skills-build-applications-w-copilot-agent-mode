@@ -1,4 +1,4 @@
-mode: 'agent'
+agent: true
 model: GPT-4.1
 
 # Django App Updates
